@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z3.jpg?raw=true)
 
-![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z4.jpg?raw=true)
+![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z4.png?raw=true)
 
 
 
