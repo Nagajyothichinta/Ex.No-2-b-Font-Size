@@ -122,14 +122,13 @@ public class MainActivity extends AppCompatActivity {
         tools:layout_editor_absoluteX="40dp"
         tools:layout_editor_absoluteY="456dp" />
     </RelativeLayout>
-    
-    ```
+ ```
 
 ## Output:
 
-![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z3.jpg)
+![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z3.jpg?raw=true)
 
-![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z4.jpg)
+![output](https://github.com/Nagajyothichinta/Ex.No-2-b-Font-Size/blob/ff41d9c5783a49e5916014164b8b11baaf7c70f3/z4.jpg?raw=true)
 
 
 
