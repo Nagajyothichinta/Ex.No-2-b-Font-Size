@@ -45,10 +45,10 @@ Program to Develop an application that uses Font Size using Android Studio .
 Developed by:Chintha.Nagajyothi 
 RegisterNumber:212221230015 
 */
-
+```
 
 ## MainActivity.java:
-
+```
 package com.firstapp.fontsize;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -88,9 +88,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -122,6 +122,8 @@ public class MainActivity extends AppCompatActivity {
         tools:layout_editor_absoluteX="40dp"
         tools:layout_editor_absoluteY="456dp" />
     </RelativeLayout>
+    
+    ```
 
 ## Output:
 
