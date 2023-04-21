@@ -45,7 +45,7 @@ Program to Develop an application that uses Font Size using Android Studio .
 Developed by:Chintha.Nagajyothi 
 RegisterNumber:212221230015 
 */
-```
+
 
 ## MainActivity.java:
 
